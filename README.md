@@ -1,2 +1,2 @@
-# Revenue-Analysis-Dashboard
-Delivering Actionable Insights to the Revenue Team in the Hospitality Industry
+# Revenue Analysis Dashboard
+### Providing Insights to the Revenue Team in the Hospitality Domain
